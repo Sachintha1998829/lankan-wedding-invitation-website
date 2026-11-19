@@ -1,6 +1,6 @@
 import songTrack from '../assets/Song.mp3';
 import brideImage from '../assets/bride.jpeg';
-import groomImage from '../assets/groom 01.jpeg';
+import groomImage from '../assets/groom.jpeg';
 
 export const weddingData = {
   // === COUPLE NAMES (in Sinhala) ===
