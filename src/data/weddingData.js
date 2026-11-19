@@ -6,7 +6,8 @@ import image01 from '../assets/Image 01.jpeg';
 import image02 from '../assets/Image 02.jpeg';
 import image03 from '../assets/Image 03.jpeg';
 import image04 from '../assets/Image 04.jpeg';
-
+import image05 from '../assets/Image 05.jpeg';
+import image06 from '../assets/Image 06.jpeg';
 
 export const weddingData = {
   // === COUPLE NAMES (in Sinhala) ===
