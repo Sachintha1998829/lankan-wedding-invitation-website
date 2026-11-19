@@ -35,10 +35,10 @@ const Footer = ({ bride, groom, weddingDateFormatted }) => {
               </motion.div>
             </div>
             <p className="text-xl md:text-2xl font-serif font-light italic mb-6 text-cream">
-              ඔබගේ ප්‍රේමය හා සිතින් සහභාගිතාවය සඳහා
+              ඔබට අපගේ ආදරණීය ස්තුතිය! 🌸
             </p>
             <p className="text-cream/70 max-w-2xl mx-auto text-lg font-serif leading-relaxed">
-              ඔබ අපගේ විශේෂ දිනයේ భාගවීමට සුවිසිට! ඔබගේ පිතිකම, ආශිර්වාද සහ ප්‍රේම අපට වැඩි වටිනාකමි. එම සලකා අපි නව සිහින දිගින් ගිය කරමු.
+              ඔබගේ පැමිණීම, ආශීර්වාද සහ සුබ පැතුම් අපට වචනයෙන් විස්තර කළ නොහැකි තරම් වටිනවා. අපගේ මේ සුන්දර ගමනේ කොටස්කරුවන් වීම පිළිබඳව ඔබ සැමට බෙහෙවින් ස්තූතියි. ❤️
             </p>
           </motion.div>
         </ScrollReveal>
@@ -58,7 +58,7 @@ const Footer = ({ bride, groom, weddingDateFormatted }) => {
               transition={{ duration: 0.3 }}
             >
               <p className="text-gold/70 text-sm font-serif font-semibold mb-3 tracking-widest">
-                සිටින්නවා
+                මනාල යුවල
               </p>
               <p className="font-serif text-3xl font-bold text-gold">
                 {bride} & {groom}
@@ -72,7 +72,7 @@ const Footer = ({ bride, groom, weddingDateFormatted }) => {
               transition={{ duration: 0.3 }}
             >
               <p className="text-gold/70 text-sm font-serif font-semibold mb-3 tracking-widest">
-                දිනට
+                දිනය
               </p>
               <p className="font-serif text-3xl font-bold text-gold">
                 {weddingDateFormatted}
@@ -89,7 +89,7 @@ const Footer = ({ bride, groom, weddingDateFormatted }) => {
                 අපට සම්බන්ධ වෙන්න
               </p>
               <p className="font-serif text-lg font-semibold">
-                aaranya@wedding.com
+                pasindubalasooriya1998@gmail.com
               </p>
             </motion.div>
           </div>
@@ -104,7 +104,7 @@ const Footer = ({ bride, groom, weddingDateFormatted }) => {
           transition={{ duration: 0.6, delay: 0.3 }}
         >
           <motion.a
-            href="mailto:aaranya@wedding.com"
+            href="mailto:pasindubalasooriya1998@gmail.com"
             className="flex items-center gap-3 text-cream/70 hover:text-gold transition-all duration-300 group"
             whileHover={{ scale: 1.1 }}
           >
@@ -114,7 +114,7 @@ const Footer = ({ bride, groom, weddingDateFormatted }) => {
             <span className="font-serif">විද්‍යුත් තැපෑල</span>
           </motion.a>
           <motion.a
-            href="tel:+94701234567"
+            href="tel:+9471 623 9180"
             className="flex items-center gap-3 text-cream/70 hover:text-gold transition-all duration-300 group"
             whileHover={{ scale: 1.1 }}
           >
@@ -140,10 +140,10 @@ const Footer = ({ bride, groom, weddingDateFormatted }) => {
           transition={{ duration: 0.6, delay: 0.4 }}
         >
           <p className="text-cream/60 font-serif text-lg mb-2">
-            ේ‍ර ඩු සිතින් හැදිලි වෙබ්ගිණ
+           ......
           </p>
           <p className="text-cream/50 text-sm font-serif">
-            © {currentYear} {bride} & {groom}. සියලු අයිතිවාසිකම් ඉපිටින් ඇත.
+            © {currentYear} {bride} & {groom}..
           </p>
         </motion.div>
       </div>
