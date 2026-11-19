@@ -82,7 +82,9 @@ gallery: [
   image01,
   image02,
   image03,
-  image04
+  image04,
+  image05,
+  image06
 ],
 
   // === MUSIC CONFIG (Edit audio file path) ===
