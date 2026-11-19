@@ -66,10 +66,10 @@ const RSVP = () => {
               ස්තුතියි!
             </h2>
             <p className="text-xl md:text-2xl text-dark-text/70 mb-4 font-serif">
-              ඔබගේ පිළිතුරු සඳුනු
+              ඔබගේ පිළිතුරු ලැබුනි
             </p>
             <p className="text-lg text-dark-text/60 font-serif">
-              ඔබ සමඟ ඔබගේ විශේෂ දිනයේ සුවිසිට සිටිමු!
+              එදිනට සහභාගිවීමට බලාපොරොත්තු වෙමි
             </p>
           </motion.div>
         </div>
@@ -83,7 +83,7 @@ const RSVP = () => {
         <ScrollReveal>
           <div className="text-center mb-16">
             <h2 className="font-serif text-5xl md:text-6xl font-bold text-deep-maroon mb-6">
-              පිළිතුරු දෙන්න
+              අපේ සතුට බෙදාගන්න ඔබත් එනවාද?
             </h2>
             <FloralDivider />
             <p className="text-lg md:text-xl text-dark-text/70 font-serif">
@@ -165,7 +165,7 @@ const RSVP = () => {
                     className="mr-3 w-5 h-5 accent-gold"
                   />
                   <span className="text-dark-text font-serif text-lg group-hover:text-gold transition-colors">
-                    ඔව්, මම අසනු ඇත
+                    එදිනට සහභාගිවීමට බලාපොරොත්තු වෙමි
                   </span>
                 </label>
                 <label className="flex items-center cursor-pointer group">
@@ -178,7 +178,7 @@ const RSVP = () => {
                     className="mr-3 w-5 h-5 accent-gold"
                   />
                   <span className="text-dark-text font-serif text-lg group-hover:text-gold transition-colors">
-                    ක්ෂමා කරන්න, මට නොහැක
+                    සමාවෙන්න, එදිනට සහභාගිවීමට නොහැක.
                   </span>
                 </label>
               </div>
@@ -219,7 +219,7 @@ const RSVP = () => {
                 value={formData.message}
                 onChange={handleChange}
                 className="w-full px-4 py-3 border-2 border-gold border-opacity-30 rounded-xl focus:outline-none focus:border-opacity-100 focus:shadow-gold-glow transition-all resize-none bg-ivory/50 text-dark-text font-serif"
-                placeholder="ඔබගේ පිතිකම සහ ආशිර්වාද පෙන්වන්න..."
+                placeholder="..."
                 rows="4"
               />
             </div>
