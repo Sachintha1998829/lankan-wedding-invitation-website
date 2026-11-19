@@ -2,6 +2,12 @@ import songTrack from '../assets/Song.mp3';
 import brideImage from '../assets/bride.jpeg';
 import groomImage from '../assets/groom.jpeg';
 
+import image01 from '../assets/image 01.jpeg';
+import image02 from '../assets/image 02.jpeg';
+import image03 from '../assets/image 03.jpeg';
+import image04 from '../assets/image 04.jpeg';
+
+
 export const weddingData = {
   // === COUPLE NAMES (in Sinhala) ===
   bride: 'Prathibhashini Diwarathna',
