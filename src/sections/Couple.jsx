@@ -36,7 +36,7 @@ const Couple = ({ couple }) => {
             </h2>
             <FloralDivider />
             <p className="text-dark-text/80 text-3xl font-dancing">
-              Destiny brought us together, and love has bound us forever. As we step into our new life together, we cherish the presence and blessings of our beloved family and friends.
+              A beautiful journey that began with a simple meeting blossomed into a love filled with trust, happiness, and endless memories. With the love and blessings of our beloved parents and families, we are ready to begin a new chapter of our lives together. As we take this beautiful step towards forever, we warmly invite you to share in our joy and bless our journey with your presence.
             </p>
           </div>
         </ScrollReveal>
