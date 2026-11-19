@@ -34,22 +34,22 @@ const EventDetails = ({ eventDetails, weddingDate }) => {
     },
     {
       icon: Clock,
-      label: 'නිරිත',
+      label: 'වෙලාව',
       value: eventDetails.time,
     },
     {
       icon: MapPin,
-      label: 'නම',
+      label: 'ස්ථානය',
       value: eventDetails.venue,
     },
     {
       icon: MapPin,
-      label: 'ස්ථිතිය',
+      label: 'ලිපිනය',
       value: eventDetails.address,
     },
     {
       icon: Smartphone,
-      label: 'සම්බන්ධන',
+      label: 'විමසීම්',
       value: eventDetails.contact,
     },
     {
@@ -65,7 +65,7 @@ const EventDetails = ({ eventDetails, weddingDate }) => {
         <ScrollReveal>
           <div className="text-center mb-20">
             <h2 className="font-serif text-5xl md:text-6xl font-bold text-deep-maroon mb-6">
-              විවිධතා
+              The Big Day Is Coming!
             </h2>
             <FloralDivider />
           </div>
@@ -81,7 +81,7 @@ const EventDetails = ({ eventDetails, weddingDate }) => {
             transition={{ duration: 0.6 }}
           >
             <h3 className="text-center font-serif text-3xl md:text-4xl font-bold text-deep-maroon mb-12">
-              විවාහ දිනට ඉතිරි
+              තව දින
             </h3>
             <CountdownTimer targetDate={weddingDate} />
           </motion.div>
@@ -133,7 +133,7 @@ const EventDetails = ({ eventDetails, weddingDate }) => {
             <div className="flex items-center justify-center gap-3 mb-4">
               <Heart className="text-gold" size={28} />
               <h3 className="font-serif text-3xl font-bold">
-                සිට පෙතිර සටහන
+                මංගල ඇඳුම
               </h3>
               <Heart className="text-gold" size={28} />
             </div>
