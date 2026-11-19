@@ -30,11 +30,11 @@ const Timeline = ({ story }) => {
         <ScrollReveal>
           <div className="text-center mb-20">
             <h2 className="font-serif text-5xl md:text-6xl font-bold text-deep-maroon mb-6">
-              අපගේ සිහින
+              අපගෙ ආදර කතාව
             </h2>
             <FloralDivider />
             <p className="text-dark-text/80 text-lg font-serif italic">
-              අවිඩුවීමෙතින් සිටි චිතුරිතයෙතින්
+              මතකයන්ගෙන් බිදක්
             </p>
           </div>
         </ScrollReveal>
