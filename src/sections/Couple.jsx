@@ -36,7 +36,7 @@ const Couple = ({ couple }) => {
             </h2>
             <FloralDivider />
             <p className="text-dark-text/80 text-3xl font-dancing">
-              A beautiful journey that began with a simple meeting blossomed into a love filled with trust, happiness, and endless memories. With the love and blessings of our beloved parents and families, we are ready to begin a new chapter of our lives together. As we take this beautiful step towards forever, we warmly invite you to share in our joy and bless our journey with your presence.
+පුංචි හමුවීමකින් ඇරඹුණු අපේ ගමන විශ්වාසය, සතුට සහ සුන්දර මතකයන් පිරුණු ආදර කතාවක් බවට පත්වුණා. අපගේ ආදරණීය දෙමාපියන්ගේ සහ පවුල්වල ආශීර්වාදය මැද, අපේ ජීවිතයේ අලුත් පරිච්ඡේදයක් ආරම්භ කිරීමට අපි සූදානම්. ❤️
             </p>
           </div>
         </ScrollReveal>
