@@ -72,7 +72,7 @@ export const weddingData = {
 
   // === GALLERY IMAGES (Edit these image URLs) ===
   gallery: [
-    'https://drive.google.com/file/d/1f3Am7lZSN-XjTEKbH3BdrIf6Q3etIgpd/view?usp=sharing',
+    'https://drive.google.com/uc?export=view&id=1f3Am7lZSN-XjTEKbH3BdrIf6Q3etIgpd',
     'https://images.unsplash.com/photo-1516795971207-75679068413e?w=400&h=400&fit=crop',
     'https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop',
     'https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=400&fit=crop',
