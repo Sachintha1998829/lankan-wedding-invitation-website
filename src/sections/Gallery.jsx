@@ -39,10 +39,10 @@ const Gallery = ({ images = [] }) => {
         <ScrollReveal>
           <div className="text-center mb-20">
             <h2 className="font-serif text-5xl md:text-6xl font-bold text-deep-maroon mb-6">
-              ගෝත්‍ර
+              Captured Moments
             </h2>
             <p className="text-lg md:text-xl text-dark-text/70 font-serif mb-8">
-              ඔබගේ ඉතිරි සිහින සහ විශේෂ අවස්ථා
+              කැමරා කාචයේ සටහන් වූ මොහොත
             </p>
             <FloralDivider />
           </div>
@@ -117,7 +117,7 @@ const Gallery = ({ images = [] }) => {
             transition={{ duration: 0.6 }}
           >
             <p className="font-serif text-xl md:text-2xl text-deep-maroon leading-relaxed">
-              එක එක මුහුණත සිරුරත්, එක එක සිනුවත ඔබගේ ප්‍රේම සහ සතුටේ සාක්ෂියි.
+              අපේ සෑම ඡායාරූපයකම සැඟවී ඇත්තේ සුන්දර කතාවක්. ආදරය, සිනහව සහ සතුට පිරුණු අපේ ආදරණීය ගමනේ අමතක නොවන මතකයන් කිහිපයක් මෙලෙස ඔබ සමඟ බෙදාගන්නෙමු. ❤️
             </p>
           </motion.div>
         </ScrollReveal>
