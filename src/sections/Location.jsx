@@ -11,7 +11,7 @@ const Location = ({ eventDetails }) => {
         <ScrollReveal>
           <div className="text-center mb-20">
             <h2 className="font-serif text-5xl md:text-6xl font-bold text-deep-maroon mb-6">
-              වෙන්න ස්ථිතිය
+              Wedding Location
             </h2>
             <FloralDivider />
           </div>
@@ -28,7 +28,7 @@ const Location = ({ eventDetails }) => {
               transition={{ duration: 0.6 }}
             >
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3844.5322447277823!2d73.79046952346828!3d15.289873322159628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfba3b3b3b3b3b%3A0x3b3b3b3b3b3b3b3b!2sTaj%20Exotica%20Resort%20%26%20Spa%2C%20Goa!5e0!3m2!1sen!2sin!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.0511964298835!2d80.0221932744848!3d7.235001014487451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2e31986484e07%3A0xe30134b0edea219a!2sNethmi%20Hotel%20%26%20Banquet!5e0!3m2!1sen!2slk!4v1795064594639!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -56,7 +56,7 @@ const Location = ({ eventDetails }) => {
                   </div>
                   <div>
                     <h3 className="font-serif text-2xl md:text-3xl font-bold text-deep-maroon mb-3">
-                      වෙන්නේ ස්ථිතිය
+                      විවාහ මංගල්‍ය ස්ථානය
                     </h3>
                     <p className="text-lg md:text-xl font-semibold text-maroon mb-2">
                       {eventDetails.venue}
@@ -78,7 +78,7 @@ const Location = ({ eventDetails }) => {
               >
                 <h3 className="font-serif text-xl md:text-2xl font-bold mb-6 flex items-center gap-3">
                   <Phone size={24} className="text-gold" />
-                  සම්බන්ධන තොරතුරු
+                  අප හා සම්බන්ධ වන්න
                 </h3>
                 <div className="space-y-4">
                   <div className="flex items-start gap-4">
@@ -108,18 +108,18 @@ const Location = ({ eventDetails }) => {
               >
                 <h3 className="font-serif text-xl md:text-2xl font-bold text-deep-maroon mb-4 flex items-center gap-3">
                   <Navigation className="text-gold" size={24} />
-                  පිහිටීම
+                  මංගල උත්සව ස්ථානයට පිවිසෙන්න
                 </h3>
                 <p className="text-dark-text/70 mb-6 font-serif leading-relaxed">
-                  වෙන්නේ ගිලින් පහසුවෙන් ප්‍රවේශ විය හැකිය. අපගේ සගයන් සඳහා ප්‍රචුර පාර්කින් ලබා ඇත.
+                  පහසුවෙන් අප වෙත ළඟා වීමට අවශ්‍ය මාර්ගය මෙතැනින් සොයාගත හැකිය. ❤️
                 </p>
                 <a
-                  href="https://www.google.com/maps/search/Taj+Exotica+Resort+Goa"
+                  href="https://maps.app.goo.gl/GmXz8uu56gTdiC7Q7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-gold to-soft-gold text-deep-maroon font-serif font-bold rounded-full hover:shadow-gold-glow transition-all duration-300 group"
                 >
-                  <span>ගිලින් ස්ථිතිය බලන්න</span>
+                  <span>මංගල උත්සව ස්ථානය බලන්න</span>
                   <Navigation className="group-hover:translate-x-1 transition-transform" size={18} />
                 </a>
               </motion.div>
